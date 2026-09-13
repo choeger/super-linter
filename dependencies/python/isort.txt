@@ -1,1 +1,2 @@
-isort==5.12.0
+isort==9.0.1
+mypy_extensions==1.1.0
